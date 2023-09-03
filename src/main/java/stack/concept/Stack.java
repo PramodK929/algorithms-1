@@ -1,4 +1,4 @@
-package stack;
+package stack.concept;
 /**
  * @author #pramodkumar on 01/09/23
  * @project algorithms-1
